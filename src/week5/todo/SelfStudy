@@ -1,0 +1,10 @@
+
+[SELF-STUDY]
+Write classes representing Car, Train, Airplane objects in real life
+building the hierarchical relation that express:
+Car is a vehicle
+Train is a vehicle
+Airplane is a vehicle
+
+Define some common attributes and methods.
+Define some attributes methods that exist only in one of the subclasses.
